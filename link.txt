@@ -4,6 +4,7 @@ https://github.com/IlhamSevensky/Contributors-Hacktoberfest-2019
 https://github.com/irhamumam17/miu_hofest
 https://github.com/furqonn01/Hacktoberfest-Traveloki
 https://github.com/winarwahyuw/Hacktoberfest-Traveloki
+https://github.com/galeka99/semarangan
 https://github.com/NaufalRz19/Hacktoberfest-project1/
 https://github.com/asaromi/HackToBerFest2019
 https://github.com/kolinalina/link-hack
