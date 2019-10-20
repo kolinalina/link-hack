@@ -5,3 +5,5 @@ https://github.com/irhamumam17/miu_hofest
 https://github.com/furqonn01/Hacktoberfest-Traveloki
 https://github.com/winarwahyuw/Hacktoberfest-Traveloki
 https://github.com/raisaarfiani/HACKtoberfest
+https://github.com/Fauti777/ProjectHacktoberfest.git
+https://github.com/Dwirinas/Hfest
